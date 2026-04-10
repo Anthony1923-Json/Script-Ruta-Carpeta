@@ -1,5 +1,5 @@
 # 🗂️ Buscador de Carpetas
-
+qwertyuiolkjnhbgvfds
 Script de Python para buscar carpetas en un disco externo de forma rápida sin tener que navegar manualmente por el explorador de Windows.
 
 ## ¿Qué hace?
